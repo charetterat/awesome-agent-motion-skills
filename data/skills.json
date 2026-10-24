@@ -1,6 +1,6 @@
 {
  "_comment": "Single source of truth for awesome-agent-motion-skills. Verified live on 2026-10-08 via GitHub API through HK proxy. Every entry represents an actionable Agent Skill for Coding Agents (Claude Code / Codex / Cursor).",
- "updated": "2026-10-19",
+ "updated": "2026-10-24",
  "skills": [
   {
    "name": "huashu-art-motion",
