@@ -6,7 +6,7 @@
 
 Turn static agent-written code into living animations, cinematic launch videos, interactive morphing UI, and dynamic galleries.
 
-> ⛔ **Not affiliated with Anthropic, Remotion, or any skill author listed.** Star counts are a live snapshot (2026-10-24).
+> ⛔ **Not affiliated with Anthropic, Remotion, or any skill author listed.** Star counts are a live snapshot (2026-10-25).
 > Every skill listed has been verified for installation syntax, stack dependency, and reproducible execution.
 
 </div>
