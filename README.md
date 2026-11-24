@@ -48,7 +48,6 @@ Choose the exact skill for your use-case:
 
 ## 📦 Detailed Breakdown
 
-
 ### [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
 
 > **Category:** Art & Gallery Motion · **Stars:** ★1,909 · **Stack:** `HTML5 / Canvas / SVG / CSS`
